@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adi Sharma</h1>
 <h3 align="center">A computer science undergraduate student at Sikkim Manipal Institute of Technology with hands-on experience in industry demanding skills and a zest to learn. Skilled in C++, Data Structures & Algorithms, Python, JavaScript, Object Oriented Programming, React and NodeJS. Motivated to learn, grow and contribute to the field of Software Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadisharma&label=Profile%20views&color=0e75b6&style=flat" alt="iadisharma" /> </p>
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **iadisharmaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
